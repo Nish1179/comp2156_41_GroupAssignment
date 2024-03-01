@@ -1,0 +1,1 @@
+The course may cover infrastructure as code principles and tools such as Terraform, Ansible, or Chef.
