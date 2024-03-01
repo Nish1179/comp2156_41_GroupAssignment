@@ -1,3 +1,4 @@
 Situated in Toronto, Ontario, Canada, GBC has multiple campuses across the city, offering convenient access to urban amenities and industry opportunities.
 Programs:
-GBC provides a diverse range of programs spanning business, health sciences, culinary arts, design, technology, and skilled trades, catering to various career paths and educational interests.
+GBC provides a diverse range of progMonitoring and Feedback: DevOps emphasizes monitoring application and infrastructure health in real-time, collecting metrics, logs, and other data to provide feedback loops for continuous improvement.rams spanning business, health sciences, culinary arts, design, technology, and skilled trades, catering to various career paths and educational interests.
+Monitoring and Feedback: DevOps emphasizes monitoring application and infrastructure health in real-time, collecting metrics, logs, and other data to provide feedback loops for continuous improvement.
