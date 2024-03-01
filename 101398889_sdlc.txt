@@ -1,1 +1,2 @@
-hi
+Streamlined Development Process: DevOps practices help streamline the software development process by promoting collaboration and communication between development, operations, and other stakeholders. This leads to faster delivery of software products and features to market, enabling organizations to respond quickly to changing customer needs and market demands.
+Continuous Integration and Deployment: DevOps emphasizes practices such as continuous integration (CI) and continuous deployment (CD), where code changes are automatically built, tested, and deployed to production environments.
