@@ -1,1 +1,1 @@
-this is for sdlc
+DevOps, short for Development and Operations, is a software engineering methodology that focuses on integrating the work of development teams and operations to improve the flow and value delivery of applications.
