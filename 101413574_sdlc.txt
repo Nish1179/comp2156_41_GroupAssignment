@@ -1,0 +1,1 @@
+DevOps practices promote resource optimization and cost reduction by enabling engineers to automate resource provisioning, scale infrastructure based on demand, and identify and eliminate inefficiencies in the development and deployment process.
