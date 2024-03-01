@@ -2,3 +2,5 @@ Situated in Toronto, Ontario, Canada, GBC has multiple campuses across the city,
 Programs:
 GBC provides a diverse range of progMonitoring and Feedback: DevOps emphasizes monitoring application and infrastructure health in real-time, collecting metrics, logs, and other data to provide feedback loops for continuous improvement.rams spanning business, health sciences, culinary arts, design, technology, and skilled trades, catering to various career paths and educational interests.
 Monitoring and Feedback: DevOps emphasizes monitoring application and infrastructure health in real-time, collecting metrics, logs, and other data to provide feedback loops for continuous improvement.
+Collaboration: DevOps emphasizes collaboration between development (Dev) and operations (Ops) teams, breaking down silos and fostering a culture of shared responsibility.
+Automation: Automation plays a crucial role in DevOps, enabling the continuous delivery and integration of code, as well as automating repetitive tasks such as testing, deployment, and infrastructure provisioning.
