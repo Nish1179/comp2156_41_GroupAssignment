@@ -1,13 +1,7 @@
 COMP 2156 is a DevOps course offered at George Brown College in Toronto, Canada.
-
 Designed to equip students with skills and knowledge for implementing DevOps practices in software development and IT operations.
-
 Topics Covered:ontinuous integration and continuous delivery (CI/CD).
-
 Infrastructure as code (IaC).
-
 Configuration management.
-
 Monitoring and collaboration tools.
-
 Cloud computing platforms.
